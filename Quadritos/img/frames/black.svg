@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="487" height="492" viewBox="0 0 487 492">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.001" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Trazado_178" x="-5" y="-5" width="488" height="488" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-black">
+      <rect width="487" height="492"/>
+    </clipPath>
+  </defs>
+  <g id="black" clip-path="url(#clip-black)">
+    <g id="black-2" data-name="black" transform="translate(-9 -2)">
+      <g id="Grupo_117" data-name="Grupo 117" transform="translate(-11 -320)">
+        <g id="Grupo_116" data-name="Grupo 116" transform="translate(20 322)">
+          <path id="Trazado_176" data-name="Trazado 176" d="M0,0H476V476H0Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          <path id="Trazado_177" data-name="Trazado 177" d="M0,0H476V476H0Z" fill="none"/>
+          <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_178)">
+            <path id="Trazado_178-2" data-name="Trazado 178" d="M8.5,8.5v459h459V8.5Z" fill="none" stroke="#000" stroke-width="17" fill-rule="evenodd"/>
+          </g>
+          <path id="Trazado_179" data-name="Trazado 179" d="M0,476H476l11,16H11Z"/>
+          <path id="Trazado_180" data-name="Trazado 180" d="M0,476H476l11,16H11Z" fill="#333"/>
+          <path id="Trazado_181" data-name="Trazado 181" d="M476,0l11,16V492l-11-16Z"/>
+          <path id="Trazado_182" data-name="Trazado 182" d="M476,0l11,16V492l-11-16Z" fill="#4d4d4d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

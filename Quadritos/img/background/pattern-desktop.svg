@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2072" height="618" viewBox="0 0 2072 618">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_108" data-name="Rectángulo 108" width="2072" height="618" transform="translate(-84 292)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.486" y1="1.017" x2="0.493" y2="0.013" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5269"/>
+      <stop offset="1" stop-color="#ff7d57"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.338" y1="1.01" x2="0.331" y2="-0.009" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="pattern-desktop" transform="translate(84 -292)" clip-path="url(#clip-path)">
+    <rect id="Rectángulo_99" data-name="Rectángulo 99" width="120" height="120" rx="8" transform="translate(100 853.147) rotate(45)" fill="#ff765b"/>
+    <g id="Rectángulo_100" data-name="Rectángulo 100" transform="translate(1804 292.147) rotate(45)" fill="none" stroke="#ffa64d" stroke-width="8">
+      <rect width="120" height="120" rx="8" stroke="none"/>
+      <rect x="4" y="4" width="112" height="112" rx="4" fill="none"/>
+    </g>
+    <rect id="Rectángulo_101" data-name="Rectángulo 101" width="120" height="120" rx="8" transform="translate(1903 390.147) rotate(45)" fill="#ffa64d"/>
+    <rect id="Rectángulo_102" data-name="Rectángulo 102" width="120" height="120" rx="8" transform="translate(1804 665.147) rotate(45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_103" data-name="Rectángulo 103" width="120" height="120" rx="8" transform="translate(1 665.147) rotate(45)" fill="#ff7d57"/>
+    <rect id="Rectángulo_104" data-name="Rectángulo 104" width="120" height="120" rx="8" transform="translate(1804 853.147) rotate(45)" fill="#ff5269"/>
+    <g id="Rectángulo_105" data-name="Rectángulo 105" transform="translate(1903 567.147) rotate(45)" fill="none" stroke="#ffa64d" stroke-width="8">
+      <rect width="120" height="120" rx="8" stroke="none"/>
+      <rect x="4" y="4" width="112" height="112" rx="4" fill="none"/>
+    </g>
+    <g id="Rectángulo_106" data-name="Rectángulo 106" transform="translate(100 567.147) rotate(45)" fill="none" stroke="#ffa64d" stroke-width="8">
+      <rect width="120" height="120" rx="8" stroke="none"/>
+      <rect x="4" y="4" width="112" height="112" rx="4" fill="none"/>
+    </g>
+    <rect id="Rectángulo_107" data-name="Rectángulo 107" width="120" height="120" rx="8" transform="translate(1903 760.147) rotate(45)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

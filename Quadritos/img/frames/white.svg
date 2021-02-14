@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="487" height="492" viewBox="0 0 487 492">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.001" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Trazado_185" x="-3.983" y="-3.983" width="486.983" height="486.983" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-white">
+      <rect width="487" height="492"/>
+    </clipPath>
+  </defs>
+  <g id="white" clip-path="url(#clip-white)">
+    <g id="white-2" data-name="white" transform="translate(-9 -2)">
+      <g id="Grupo_119" data-name="Grupo 119" transform="translate(-538 -320)">
+        <g id="Grupo_118" data-name="Grupo 118" transform="translate(547 322)">
+          <path id="Trazado_183" data-name="Trazado 183" d="M0,0H476V476H0Z" stroke="#ececec" stroke-width="1" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          <path id="Trazado_184" data-name="Trazado 184" d="M0,0H476V476H0Z" fill="none"/>
+          <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_185)">
+            <path id="Trazado_185-2" data-name="Trazado 185" d="M8.5,8.5V466.483H466.483V8.5Z" transform="translate(1.02 1.02)" fill="none" stroke="#fff" stroke-width="17" fill-rule="evenodd"/>
+          </g>
+          <path id="Trazado_186" data-name="Trazado 186" d="M0,476H476l11,16H11Z"/>
+          <path id="Trazado_187" data-name="Trazado 187" d="M0,476H476l11,16H11Z" fill="#858585"/>
+          <path id="Trazado_188" data-name="Trazado 188" d="M476,0l11,16V492l-11-16Z"/>
+          <path id="Trazado_189" data-name="Trazado 189" d="M476,0l11,16V492l-11-16Z" fill="#d0d0d0"/>
+          <g id="Rectángulo_126" data-name="Rectángulo 126" transform="translate(18 18)" fill="none" stroke="#f4f4f4" stroke-width="0.5">
+            <rect width="441" height="441" stroke="none"/>
+            <rect x="0.25" y="0.25" width="440.5" height="440.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

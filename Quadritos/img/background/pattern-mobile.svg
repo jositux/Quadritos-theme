@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="156" viewBox="0 0 320 156">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_115" data-name="Rectángulo 115" width="320" height="156" transform="translate(0 439)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5269"/>
+      <stop offset="0.5" stop-color="#ff7d57"/>
+      <stop offset="1" stop-color="#ffa64d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.977" y1="0.479" x2="-0.006" y2="0.469" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5269"/>
+      <stop offset="1" stop-color="#ff7d57"/>
+    </linearGradient>
+  </defs>
+  <g id="pattern-mobile" transform="translate(0 -439)" clip-path="url(#clip-path)">
+    <g id="Rectángulo_109" data-name="Rectángulo 109" transform="translate(-15.093 521.398) rotate(45)" fill="none" stroke="#ff5c65" stroke-width="4">
+      <rect width="54.535" height="54.535" rx="8" stroke="none"/>
+      <rect x="2" y="2" width="50.535" height="50.535" rx="6" fill="none"/>
+    </g>
+    <rect id="Rectángulo_110" data-name="Rectángulo 110" width="54.535" height="54.535" rx="8" transform="translate(339.096 440.25) rotate(45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_111" data-name="Rectángulo 111" width="54.535" height="54.535" rx="8" transform="translate(29.899 564.729) rotate(45)" fill="#ff5b65"/>
+    <rect id="Rectángulo_112" data-name="Rectángulo 112" width="54.535" height="54.535" rx="8" transform="translate(294.453 571.372) rotate(45)" fill="#ff5469"/>
+    <rect id="Rectángulo_113" data-name="Rectángulo 113" width="54.535" height="54.535" rx="8" transform="translate(339.087 527.58) rotate(45)" fill="url(#linear-gradient-2)"/>
+    <g id="Rectángulo_114" data-name="Rectángulo 114" transform="translate(294.194 484.125) rotate(45)" fill="none" stroke="#ffa64d" stroke-width="4">
+      <rect width="54.535" height="54.535" rx="8" stroke="none"/>
+      <rect x="2" y="2" width="50.535" height="50.535" rx="6" fill="none"/>
+    </g>
+  </g>
+</svg>

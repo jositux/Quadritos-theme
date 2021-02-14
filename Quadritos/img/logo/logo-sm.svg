@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.389" height="46.778" viewBox="0 0 46.389 46.778">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.514" y1="2.324" x2="0.514" y2="0.867" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe7c56"/>
+      <stop offset="1" stop-color="#fe5169"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.513" y1="0.918" x2="0.513" y2="-0.538" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.514" y1="2.324" x2="0.514" y2="0.868" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.513" y1="0.919" x2="0.513" y2="-0.538" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_102" data-name="Grupo 102" transform="translate(-281.676 -1664.216)">
+    <rect id="Rectángulo_86" data-name="Rectángulo 86" width="17.906" height="17.906" rx="2" transform="translate(281.676 1664.231)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_87" data-name="Rectángulo 87" width="17.906" height="17.906" rx="2" transform="translate(281.688 1689.392)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_88" data-name="Rectángulo 88" width="17.906" height="17.906" rx="2" transform="translate(306.436 1664.216)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectángulo_89" data-name="Rectángulo 89" width="17.906" height="17.906" rx="2" transform="matrix(0.707, 0.707, -0.707, 0.707, 315.396, 1685.671)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
